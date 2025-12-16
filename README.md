@@ -1,6 +1,6 @@
 
 
-## ✅ Task 1 – Exploring and Visualizing the Iris Dataset
+## Task 1 – Exploring and Visualizing the Iris Dataset
 
 ###Task Objective
 To load, inspect, and visualize the Iris dataset to understand feature distributions and relationships between variables.
