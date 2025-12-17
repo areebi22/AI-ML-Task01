@@ -53,6 +53,30 @@ To build a machine learning model that predicts whether a person is at risk of h
 - ROC-AUC and confusion matrix results indicate the model can effectively distinguish between patients with and without heart disease.
 - Feature coefficients highlight medically relevant attributes influencing prediction.
 
-### Files for Task 3
+### Files for Task 2
 - `Heart_Disease_Prediction.ipynb`
+---
 
+## Task 2 – House Price Prediction
+
+### 🔹 Task Objective
+To predict house prices based on property features such as area, number of bedrooms, bathrooms, parking, and other amenities using a regression model.
+
+### 🔹 Dataset Used
+- **Name:** Housing Price Prediction Dataset  
+- **Source:** Kaggle  
+- **Type:** Real estate dataset  
+- **Target Variable:** `price`
+
+### 🔹 Models Applied
+- Linear Regression
+
+### 🔹 Key Results and Findings
+- The dataset was preprocessed by handling missing values and converting categorical features into numeric form using one-hot encoding.
+- An 80–20 train-test split was applied to evaluate model performance on unseen data.
+- A Linear Regression model was trained to learn the relationship between house features and prices.
+- Model evaluation using **Mean Absolute Error (MAE)** and **Root Mean Squared Error (RMSE)** showed reasonable predictive performance.
+- RMSE was higher than MAE, indicating that larger prediction errors were penalized more heavily.
+
+### 📁 Files for Task 3
+- `House_Price_Prediction.ipynb`
