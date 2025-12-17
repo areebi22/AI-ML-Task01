@@ -57,7 +57,7 @@ To build a machine learning model that predicts whether a person is at risk of h
 - `Heart_Disease_Prediction.ipynb`
 ---
 
-## Task 2 – House Price Prediction
+## Task 3 – House Price Prediction
 
 ### 🔹 Task Objective
 To predict house prices based on property features such as area, number of bedrooms, bathrooms, parking, and other amenities using a regression model.
